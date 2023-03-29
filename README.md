@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello everyone, I'm Arina</h1>
 <h3 align="center">Tecnology addicted ICT student</h3>
 
-<img align="right" alt="coding monkey" width="400" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F1Et&psig=AOvVaw1CIxoyv5OHYhAnmKQN0VhF&ust=1680177589897000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJiR5bSLgf4CFQAAAAAdAAAAABA3](https://thumbs.gfycat.com/DifficultLimpingBubblefish-max-1mb.gif)](https://thumbs.gfycat.com/DifficultLimpingBubblefish-max-1mb.gif)">
+<img align="right" alt="coding monkey" width="400" src="https://user-images.githubusercontent.com/112902422/228530043-b536702a-10f0-4a57-a550-e213e77cb865.png">
 
 - 🔭 I’m currently working on **my personal site**
 
