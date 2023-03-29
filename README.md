@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello everyone, I'm Arina</h1>
 <h3 align="center">Tecnology addicted ICT student</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.com%2Fgif%2Fm8gYpX&psig=AOvVaw1CIxoyv5OHYhAnmKQN0VhF&ust=1680177589897000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCQgLGQgf4CFQAAAAAdAAAAABBu" width="300" height="auto" align="right" />
+<img src="https://j.gifs.com/m8gYpX.gif" width="300" height="auto" align="right" />
 
 - 🔭 I’m currently working on **my personal site**
 
