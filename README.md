@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello everyone, I'm Arina</h1>
-<h3 align="center">Tecnology addicted student</h3>
+<h3 align="center">Tecnology addicted ICT student</h3>
+
+<img align="right" alt="coding monkey" width="400" src="https://i.gifer.com/1Et.gif">
 
 - 🔭 I’m currently working on **my personal site**
 
