@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello everyone, I'm Arina</h1>
 <h3 align="center">Tecnology addicted ICT student</h3>
 
-<img align="right" alt="coding monkey" width="400" src="![](https://user-images.githubusercontent.com/112902422/228530738-65bdcb9e-e6e3-4ba6-9545-93e4cff84ba5.png)
-">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 - 🔭 I’m currently working on **my personal site**
 
