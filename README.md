@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://j.gifs.com/m8gYpX.gif" width="300" height="auto" align="right" />
 
-- 🔭 I’m currently working on **my personal site**
+- 🔭 I’m currently working on **my personal site** that you can find at **https://www.akaiko.me/**
 
 - 🌱 I’m currently learning **React, Next.js**
 
