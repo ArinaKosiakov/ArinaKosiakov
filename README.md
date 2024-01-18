@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![logo](https://github.com/akaik0/akaik0/blob/main/1200x480.jpg)
 <h1 align="center">Hello everyone, I'm Arina</h1>
-<h3 align="center">Tecnology addicted ICT student</h3>
+<h3 align="center">Tecnology addicted srtist</h3>
 
 <img src="https://j.gifs.com/m8gYpX.gif" width="300" height="auto" align="right" />
 
