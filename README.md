@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **my personal website** that you can find at **https://www.dullakai.com/**
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m currently learning **ReactNative, Next.js**
 
 - 📫 How to reach me **kosiakov.arina@gmail.com**
 
