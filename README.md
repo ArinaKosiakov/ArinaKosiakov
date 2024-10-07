@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/akaik0/akaik0/blob/main/1200x480.jpg)
+
 <h1 align="center">Hello everyone, I'm Arina</h1>
 <h3 align="center">Tecnology addicted artist</h3>
 
