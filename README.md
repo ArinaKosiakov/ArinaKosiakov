@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **kosiakov.arina@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arina-kosiakov-8a9345254/](https://www.linkedin.com/in/arina-kosiakov-8a9345254/)
+<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/arina-kosiakov-8a9345254/](https://www.linkedin.com/in/arina-kosiakov-8a9345254/)-->
 
-- ⚡ Fun fact **I have 5 hobbies (sometimes more)**
+- ⚡ Fun fact **I have 2 dogs and a cat**
 
 
 <h3 align="left">Languages and Tools:</h3>
