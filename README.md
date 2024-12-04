@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello everyone, I'm Arina</h1>
-<h3 align="center">Tecnology addicted artist</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <img src="https://j.gifs.com/m8gYpX.gif" width="300" height="auto" align="right" />
 
