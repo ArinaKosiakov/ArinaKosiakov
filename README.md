@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello everyone, I'm Arina</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <img src="https://j.gifs.com/m8gYpX.gif" width="300" height="auto" align="right" />
 
-- 🔭 I’m currently working on **art portfolio website** that you can find at **https://www.dullakai.com/**
-
-- 🌱 I’m currently learning **ReactNative, Next.js**
+- 🔭 I’m currently working on some personal projects to level up my skills
 
 - 📫 How to reach me **kosiakov.arina@gmail.com**
 
