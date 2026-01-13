@@ -45,7 +45,7 @@
     Hello everyone, I'm Arina 
   </text>
   <text x="50%" y="62%" text-anchor="middle" fill="#c7c7ff"
-        font-size="20" font-family="Segoe UI, sans-serif"
+        font-size="30" font-family="Segoe UI, sans-serif"
         dominant-baseline="middle">
     Software Developer
   </text>
