@@ -3,7 +3,7 @@
 </p>
 
 * 🟣​  I'm based in Italy
-* 🟣​  You can contact me at [kosiakov.arina@gmail.com](mailto:kosiakov.arina@gmail.com)
+* 🟣​  You can find more info on https://arinakosiakov.com/
 * 🟣​  I'm currently working on [ArtFlow app](http://github.com/ArinaKosiakov/artflow-app)
 * 🟣​  I really hate bugs, like real ones
 
